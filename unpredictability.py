@@ -24,7 +24,7 @@ SCALE_WEIGHTS = {
 }
 
 # RBF bandwidth in osu! pixels.
-SIGMA = 3
+SIGMA = 6
 
 # Temporal half-life in milliseconds.
 MEMORY_HALFLIFE_MS = 7_000.0
