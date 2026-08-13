@@ -2,6 +2,8 @@
 
 An experimental approach to measuring the unpredictability and pattern diversity of osu! beatmaps.
 
+>Note: The core idea and algorithm design of this project are my own. However, since I am not a native English speaker and this is my first time releasing an open-source project, the code implementation and this README were heavily assisted by AI.
+
 ## Motivation
 
 osu! difficulty and performance systems have been continuously updated, but one problem remains difficult to capture consistently: some tech-oriented beatmaps can feel harder than their calculated difficulty suggests, while some farm-oriented beatmaps can receive comparatively high difficulty estimates.
